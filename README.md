@@ -1,7 +1,7 @@
 # devsoc-ai-ml-assignment
-# AI/ML Review Projects
+# AI/ML Vertical Projects
 
-This repository contains three Google Colab notebooks submitted for the AI/ML Vertical Review.
+This repository contains three Google Colab notebooks submitted for the AI/ML Vertical.
 
 ## Files
 
